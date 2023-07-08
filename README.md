@@ -4,18 +4,17 @@
 
 
 
-- 🔭 I’m currently working on [EEG Signal Analysis](https://github.com/Gayatrigvs/EEG-Signal-Analysis)
+- 🔭 I’m currently working on [PCB Defect Detection Techniques](https://github.com/Gayatrigvs/EEG-Signal-Analysis)
 
 - 🌱 I’m currently learning **Signal Processing**
 
-- 🤝 I’m looking for help with [QOS Traffic Scheduling](https://github.com/Gayatrigvs/QOS-Traffic-Scheduling)
+- 🤝 I’m looking for help with [Deep Learning](https://github.com/Gayatrigvs/QOS-Traffic-Scheduling)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gayatrigvs](https://github.com/Gayatrigvs)
 
 - 💬 Ask me about **Control System, Signals and Systems, Automation**
 
-- 📫 How to reach me **gayatri.shinde20@vit.edu**
-
+- 📫 How to reach me **gayatri.shinde20@vit.edu
 - ⚡ Fun fact **I am bad at getting emo...**
 
 <h3 align="left">Connect with me:</h3>
