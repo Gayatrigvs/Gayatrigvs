@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Signal Processing**
 
-- 🤝 I’m looking for help with [Deep Learning](https://github.com/Gayatrigvs/QOS-Traffic-Scheduling)
+- 🤝 I’m looking for help with [Deep Learning](https://github.com/Gayatrigvs/PCB_Defects_Detection-)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gayatrigvs](https://github.com/Gayatrigvs)
 
