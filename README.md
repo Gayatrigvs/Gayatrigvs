@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [PCB Defect Detection Techniques](https://github.com/Gayatrigvs/EEG-Signal-Analysis)
+- 🔭 I’m currently working on [PCB Defect Detection Techniques]([https://github.com/Gayatrigvs/EEG-Signal-Analysis](https://github.com/Gayatrigvs/PCB_Defects_Detection-))
 
 - 🌱 I’m currently learning **Signal Processing**
 
